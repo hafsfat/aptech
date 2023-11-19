@@ -1,4 +1,4 @@
 # aptech
 this is my first git repo 
 <br>
-author hafsa fatima 
+author hafsa aptech 
